@@ -1,4 +1,4 @@
-package com.xin.push;
+package com.xin.push.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
